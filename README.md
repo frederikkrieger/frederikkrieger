@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 currently working on characterization of the Galactic magnetic field
+- 🔭 currently working in astroparticle physics
 - 🌱 currently learning information field theory
 
 <!--
