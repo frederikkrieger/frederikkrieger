@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 currently working on characterization of the Galactic magnetic field
+- 🌱 currently learning information field theory
+
 <!--
 **frederikkrieger/frederikkrieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
